@@ -16,7 +16,7 @@ Imgdump is a lightweight web application for uploading and sharing images and vi
 
 ## Demo
 
-![Imgdump Screenshot](Screenshot_20251105_113113)  
+![Imgdump Screenshot](Screenshot_20251105_113113.png)  
 *(Add a screenshot of your app here)*
 
 ---

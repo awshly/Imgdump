@@ -35,5 +35,5 @@ Imgdump is a lightweight web application for uploading and sharing images and vi
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/imgdump.git](https://github.com/awshly/Imgdump.git)
+git clone [https://github.com/awshly/Imgdump.git](https://github.com/awshly/Imgdump.git)
 cd imgdump

@@ -1,6 +1,6 @@
 # 🌸 Imgdump
 
-Imgdump is a lightweight web application for uploading and sharing images and videos. Users can register, log in, and upload media directly to the site. The gallery displays uploads
+Imgdump is a lightweight web application for uploading and sharing images. Users can register, log in, and upload media directly to the site. The gallery displays uploads
 
 ---
 
